@@ -35,8 +35,8 @@
     "require": {
         "php": ">=7.0.0",
         "sofa/eloquence-base": "v7.1",
-        "sofa/eloquence-metable": "dev-lv7",
-        "sofa/eloquence-mutable": "dev-lv7",
+        "siteonline/eloquence-metable": "dev-lv7",
+        "siteonline/eloquence-mutable": "dev-lv7",
         "sofa/eloquence-mappable": "v7.0",
         "sofa/eloquence-validable": "v7.0"
     },
