@@ -38,9 +38,9 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "siteonline/eloquence-base": "dev-lv7",
-        "siteonline/eloquence-metable": "dev-lv7",
-        "siteonline/eloquence-mutable": "dev-lv7",
+        "siteonline/eloquence-base": "dev-lv8",
+        "siteonline/eloquence-metable": "dev-lv8",
+        "siteonline/eloquence-mutable": "dev-lv8",
         "sofa/eloquence-mappable": "v7.0",
         "sofa/eloquence-validable": "v7.0"
     },
