@@ -30,6 +30,10 @@
         {
             "type": "vcs",
             "url": "https://git.falcon.zone/siteonline/eloquence-validable.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://git.falcon.zone/siteonline/eloquence-mappable.git"
         }
     ],
     "authors": [
@@ -45,7 +49,7 @@
         "siteonline/eloquence-base": "dev-lv8",
         "siteonline/eloquence-metable": "dev-lv8",
         "siteonline/eloquence-mutable": "dev-lv8",
-        "sofa/eloquence-mappable": "v7.0",
+        "siteonline/eloquence-mappable": "dev-lv8",
         "siteonline/eloquence-validable": "dev-lv8"
     },
     "autoload-dev": {
